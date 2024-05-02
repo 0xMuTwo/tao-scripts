@@ -1,3 +1,5 @@
+Simple Scripts to see how much money the top validators on Tao are making, and which are profitable to mine
+
 Rank Subnets
 
 ```bash
